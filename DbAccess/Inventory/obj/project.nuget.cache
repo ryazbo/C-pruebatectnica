@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzEqaxk1allN7usEBFd8bozSSNHgwOwNzPsxlEKp9qFJF7DjwQHxOU6Aoves05XreVhEr7QastyPPSFoTwf7Gw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\DESKTOP282\\Documents\\GitHub\\C-pruebatectnica\\DbAccess\\Inventory\\Inventory.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP282\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\DESKTOP282\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

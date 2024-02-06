@@ -1,0 +1,10 @@
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\bin\Debug\Inventory.dacpac
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\bin\Debug\Inventory.dll
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\bin\Debug\Inventory.pdb
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\Inventory.sqlproj.AssemblyReference.cache
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\Model.xml
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\refactor.xml
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\postdeploy.sql
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\predeploy.sql
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\Inventory.dll
+c:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\DbAccess\Inventory\obj\Debug\Inventory.pdb
