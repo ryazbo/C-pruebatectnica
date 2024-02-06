@@ -1,0 +1,14 @@
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\bin\Debug\net8.0\AñoBisiesto.exe
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\bin\Debug\net8.0\AñoBisiesto.deps.json
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\bin\Debug\net8.0\AñoBisiesto.runtimeconfig.json
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\bin\Debug\net8.0\AñoBisiesto.dll
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\bin\Debug\net8.0\AñoBisiesto.pdb
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.AssemblyInfoInputs.cache
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.AssemblyInfo.cs
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.dll
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\refint\AñoBisiesto.dll
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.pdb
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\AñoBisiesto.genruntimeconfig.cache
+C:\Users\DESKTOP282\Documents\GitHub\C-pruebatectnica\AñoBisiesto\obj\Debug\net8.0\ref\AñoBisiesto.dll
